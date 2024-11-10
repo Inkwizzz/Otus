@@ -26,6 +26,7 @@ target_link_libraries(untitled1_cli PRIVATE
         untitled1
 )
 
+
 if(WITH_BOOST_TEST)
     find_package(Boost COMPONENTS unit_test_framework REQUIRED)
     add_executable(test_version test_version.cpp)
