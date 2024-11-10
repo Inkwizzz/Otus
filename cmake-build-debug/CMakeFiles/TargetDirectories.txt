@@ -1,0 +1,11 @@
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1_cli.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/test_version.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/jurom/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/install/local.dir

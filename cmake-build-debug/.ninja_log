@@ -1,0 +1,5 @@
+# ninja log v6
+20	223	7529659492955864	CMakeFiles/untitled1.dir/lib.cpp.obj	c5b4eed67122363c
+224	393	7529659494953751	untitled1.lib	932ca0336001bd02
+10	576	7529660317064921	CMakeFiles/untitled1_cli.dir/main.cpp.obj	418e5fae90cc7c88
+577	1625	7529660322738565	untitled1_cli.exe	9bf4a27dc26cef06
