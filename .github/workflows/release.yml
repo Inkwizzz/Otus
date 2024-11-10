@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - ex1.1
       - feature/github_actions
 
 jobs:
